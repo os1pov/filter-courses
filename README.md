@@ -1,6 +1,6 @@
 # Filter Courses
 
-Посмотреть на реализацию можно [тут]()
+Посмотреть на реализацию можно [тут](https://os1pov.github.io/filter-courses/)
 
 ## Stack
 
