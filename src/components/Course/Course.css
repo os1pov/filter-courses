@@ -1,0 +1,27 @@
+.card {
+    margin: 20px 0;
+}
+
+.card__title {
+    font-weight: 500;
+}
+
+.card__prices {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.card__price:last-child {
+    margin-right: 0;
+}
+
+.card__price {
+    display: flex;
+    justify-content: space-between;
+    width: 90px;
+    margin: 0 10px;
+    padding: 10px;
+    border: 1px solid #1890ff;
+    border-radius: 5px;
+}
